@@ -167,4 +167,12 @@ class Motorcycle extends Vehicle
 }
 }
 
+const Car1 = new Car("Ferrari","F15",2014,false,2000)
+const Car2 = new Car("Ferrari","F15",2012,true,2000)
+
+
+const Motorcycle1 = new Motorcycle("Toyota","Corolla",2018,true,1280)
+
+const Truck1 = new Truck("BMW","F15",2015,false,2000)
+
 
